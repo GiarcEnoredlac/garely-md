@@ -465,6 +465,7 @@ a.arrow-link:hover {
 .c2 {
 	background: rgba(0, 161, 203, 0.85);
 	padding: 15px;
+
 }
 .c1:hover, .c2:hover {
 	background: rgba(0, 43, 54, 0.89);
@@ -692,6 +693,22 @@ img, video, iframe, embed, object {
 #work p {
 	color: #fff;
 }
+#faq {
+	background: #005f8d;
+	color: #fff;
+}
+#faq h2 {
+	color: #fff !important;
+}
+#faq h4 {
+	color: black !important;
+	font-size: 22px;
+}
+#faq p {
+	color: #fff;
+	text-align: justify;
+}
+
 #portfolio {
 	width: 100%
 }
