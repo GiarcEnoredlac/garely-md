@@ -629,6 +629,9 @@ img, video, iframe, embed, object {
 	margin: 10px 0 0;
 	text-align: center;
 }
+.team-member p {
+	text-align: justify;
+}
 .team-member .pos {
 	display: block;
 	margin: 0;
